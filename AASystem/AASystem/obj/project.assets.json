@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\GitProjects\\AASystem\\AASystem\\AASystem\\AASystem.csproj",
-      "projectName": "AASystem",
-      "projectPath": "D:\\GitProjects\\AASystem\\AASystem\\AASystem\\AASystem.csproj",
+      "projectUniqueName": "D:\\GitProjects\\AASystem\\AASystem\\AASystem\\WebApi.csproj",
+      "projectName": "WebApi",
+      "projectPath": "D:\\GitProjects\\AASystem\\AASystem\\AASystem\\WebApi.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
       "outputPath": "D:\\GitProjects\\AASystem\\AASystem\\AASystem\\obj\\",
       "projectStyle": "PackageReference",

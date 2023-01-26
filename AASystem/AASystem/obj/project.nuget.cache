@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Iy0VceWR0r5c0ktgB/ibGJ0UTzKeS+IeZUSYRkL6g1BqGWnkLpVpIvyAVrJq9OlIEhOQWF29klOMU63gTUlvmg==",
+  "dgSpecHash": "86inp+OqExtBOa7D00sHaciVbLL3BmEy2z8wFjxH5WVpJHxPdD1tFLQCvULwnVtp/UWAksLcotCvMIbZ1w/Ngw==",
   "success": true,
-  "projectFilePath": "D:\\GitProjects\\AASystem\\AASystem\\AASystem\\AASystem.csproj",
+  "projectFilePath": "D:\\GitProjects\\AASystem\\AASystem\\AASystem\\WebApi.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
