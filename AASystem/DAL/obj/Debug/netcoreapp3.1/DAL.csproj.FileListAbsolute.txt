@@ -1,0 +1,10 @@
+D:\GitProjects\AASystem\AASystem\DAL\bin\Debug\netcoreapp3.1\DAL.deps.json
+D:\GitProjects\AASystem\AASystem\DAL\bin\Debug\netcoreapp3.1\DAL.dll
+D:\GitProjects\AASystem\AASystem\DAL\bin\Debug\netcoreapp3.1\DAL.pdb
+D:\GitProjects\AASystem\AASystem\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.AssemblyReference.cache
+D:\GitProjects\AASystem\AASystem\DAL\obj\Debug\netcoreapp3.1\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitProjects\AASystem\AASystem\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfoInputs.cache
+D:\GitProjects\AASystem\AASystem\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfo.cs
+D:\GitProjects\AASystem\AASystem\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.CoreCompileInputs.cache
+D:\GitProjects\AASystem\AASystem\DAL\obj\Debug\netcoreapp3.1\DAL.dll
+D:\GitProjects\AASystem\AASystem\DAL\obj\Debug\netcoreapp3.1\DAL.pdb

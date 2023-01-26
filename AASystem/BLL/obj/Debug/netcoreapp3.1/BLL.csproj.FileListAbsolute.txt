@@ -1,0 +1,10 @@
+D:\GitProjects\AASystem\AASystem\BLL\bin\Debug\netcoreapp3.1\BLL.deps.json
+D:\GitProjects\AASystem\AASystem\BLL\bin\Debug\netcoreapp3.1\BLL.dll
+D:\GitProjects\AASystem\AASystem\BLL\bin\Debug\netcoreapp3.1\BLL.pdb
+D:\GitProjects\AASystem\AASystem\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.AssemblyReference.cache
+D:\GitProjects\AASystem\AASystem\BLL\obj\Debug\netcoreapp3.1\BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitProjects\AASystem\AASystem\BLL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfoInputs.cache
+D:\GitProjects\AASystem\AASystem\BLL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfo.cs
+D:\GitProjects\AASystem\AASystem\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.CoreCompileInputs.cache
+D:\GitProjects\AASystem\AASystem\BLL\obj\Debug\netcoreapp3.1\BLL.dll
+D:\GitProjects\AASystem\AASystem\BLL\obj\Debug\netcoreapp3.1\BLL.pdb
