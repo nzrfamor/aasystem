@@ -17,29 +17,29 @@ namespace DAL.Repositories
             db = _db;
         }
 
-        public Task AddAsync(Customer entity)
+        public async Task AddAsync(Customer entity)
         {
-            throw new NotImplementedException();
+            await db.Customers.AddAsync(entity);
         }
 
         public void Delete(Customer entity) 
         {
-            throw new NotImplementedException();
+            db.Customers.Remove(entity);
         }
 
-        public Task DeleteByIdAsync(int id)
+        public async Task DeleteByIdAsync(int id)
         {
-            throw new NotImplementedException();
+            db.Customers.Remove(await db.Customers.FirstOrDefaultAsync(c => c.Id == id));
         }
 
-        public Task<IEnumerable<Customer>> GetAllAsync()
+        public async Task<IEnumerable<Customer>> GetAllAsync()
         {
-            throw new NotImplementedException();
+            return await db.Customers.ToListAsync();
         }
 
-        public Task<IEnumerable<Customer>> GetAllWithDetailsAsync()
+        public async Task<IEnumerable<Customer>> GetAllWithDetailsAsync()
         {
-            throw new NotImplementedException();
+            return await db.Customers.Include(c => c.Person).ToListAsync();
         }
 
         public async Task<Customer> GetByIdAsync(int id)
@@ -47,14 +47,14 @@ namespace DAL.Repositories
             return await db.Customers.FirstOrDefaultAsync(c => c.Id == id);
         }
 
-        public Task<Customer> GetByIdWithDetailsAsync(int id)
+        public async Task<Customer> GetByIdWithDetailsAsync(int id)
         {
-            throw new NotImplementedException();
+            return await db.Customers.Include(c => c.Person).FirstOrDefaultAsync(c => c.Id == id);
         }
 
         public void Update(Customer entity)
         {
-            throw new NotImplementedException();
+            db.Customers.Update(entity);
         }
     }
 }
